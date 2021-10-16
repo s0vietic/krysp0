@@ -2,7 +2,7 @@
 
 - 🔭 Back-end & Front-end student
 - 🌱 JavaScript/HTML5
-- 📫 My discord: silva#0007 (krysp)
+- 📫 My discord: silva#0001 (krysp)
 
 ##
 
