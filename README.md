@@ -1,3 +1,2 @@
 - Back-end & Front-end student
-- JavaScript/HTML5
 - discord: silva#0001 (krysp)
