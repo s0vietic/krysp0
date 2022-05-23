@@ -1,2 +1,1 @@
-- Back-end & Front-end student
-- discord: silva#0001 (krysp)
+Back-End student
